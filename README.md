@@ -1,0 +1,2 @@
+# newscgadmin
+Nový SCG admin
